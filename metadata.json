@@ -1,0 +1,6 @@
+{
+  "name": "Cristallo3D - Explorateur Interactif de Cristallographie & Symétries",
+  "description": "Application 3D interactive complète de cristallographie et cristallochimie : manipulation des symétries (A4, A3, A2, miroirs m, centre C), 7 systèmes, réseaux de Bravais, plans de Miller (hkl), sites interstitiels, empilements et calculs de mailles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
